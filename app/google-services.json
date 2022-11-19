@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "893584949699",
+    "project_id": "dummy-notification-6c37c",
+    "storage_bucket": "dummy-notification-6c37c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893584949699:android:ea28b80cedd4997a147d76",
+        "android_client_info": {
+          "package_name": "com.rachmad.training.notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893584949699-81q0op0ci0hallqu9fs760mbm0rbqa4c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWVIGdH_1D3FTB2tNuasWl-UdmwfH_WdQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893584949699-81q0op0ci0hallqu9fs760mbm0rbqa4c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
